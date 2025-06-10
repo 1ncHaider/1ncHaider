@@ -7,7 +7,9 @@
 - 🔍 I thrive on exploring innovative solutions in these domains.
 - 📊 Proficient in **Power BI** for data visualization and analytics.
 - 💡 Skilled in **cloud computing platforms** such as **AWS, Azure, and Google Cloud**.
-- 🛠 Experienced in **web development** using **HTML, CSS, and JavaScript**.
+- 🛠 Experienced in **web development** using **HTML, CSS, and JavaScript**
+- 📚 Currently contributing as a **Blog Editor** for **Cambridge University Press**, sharpening my communication and content curation skills.
+- 🔧 An **Associate Member** of the **Institution of Engineering and Technology (IET) London**, actively engaged with professional and technological communities.
 
 
 
